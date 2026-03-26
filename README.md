@@ -61,7 +61,7 @@ This system ensures accurate, real-time attendance management with a scalable ba
 The full source code of this project is kept private due to security and API restrictions.
 This repository is intended to showcase the project features, UI, and overall functionality.
 
----
+--
 
 ## 📫 Connect With Me
 
